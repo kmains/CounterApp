@@ -1,0 +1,13 @@
+{
+  "name": "Counter App",
+  "version": "1.0.0",
+  "description": "To Do and Decision Maker App",
+  "main": "index.js",
+  "author": "Kendra Mains",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
+  }
+}
